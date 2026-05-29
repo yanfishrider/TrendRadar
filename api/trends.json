@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T03:31:58.590724+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-05-30T05:51:21.330744+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%89%8D%E8%BA%AB%E4%BD%93%E8%B0%83%E5%8F%82%E6%8C%87%E5%8D%97",
           "source": "bilibili 热搜",
           "ranks": [
-            2
+            2,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "高考前的最后一课",
           "url": "https://www.douyin.com/hot/2515078",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "广东夏季高考用AI批卷系不实传言",
@@ -37,8 +39,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "“广东高考将用AI批卷”不实",
@@ -48,8 +50,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "高考套模板belike",
@@ -57,11 +59,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             12,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "“广东夏季高考将用AI批卷”不实",
@@ -71,8 +74,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "高考将至,吧友争相送祝福",
@@ -82,8 +85,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时41分 ~ 03时31分]"
+          "appearance_count": 3,
+          "time_info": "[00时41分 ~ 05时51分]"
         },
         {
           "title": "高考和漫展时间冲突怎么办",
