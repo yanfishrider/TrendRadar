@@ -1,121 +1,66 @@
 {
-  "generated_at": "2026-06-11T15:27:40.098278+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-12T15:19:25.369285+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 10,
+      "match_count": 5,
       "titles": [
         {
-          "title": "冲!高考考生许愿LPL夺冠",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355074&amp;topic_name=%E5%86%B2%21%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BFLPL%E5%A4%BA%E5%86%A0",
+          "title": "精明家长,高考分数=手机价格",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355109&amp;topic_name=%E7%B2%BE%E6%98%8E%E5%AE%B6%E9%95%BF%2C%E9%AB%98%E8%80%83%E5%88%86%E6%95%B0%3D%E6%89%8B%E6%9C%BA%E4%BB%B7%E6%A0%BC",
           "source": "贴吧",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "15时19分"
         },
         {
-          "title": "高考外语考试规定 14:45 就算迟到（即开考前 15 分钟），有必要吗？",
-          "url": "https://www.zhihu.com/question/2047379244393689990",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "大批印度学生，高考考卷被“调包”",
-          "url": "https://news.ifeng.com/c/8trjqw93o9o",
-          "source": "凤凰网",
+          "title": "实地探访高考奶奶",
+          "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E5%9C%B0%E6%8E%A2%E8%AE%BF%E9%AB%98%E8%80%83%E5%A5%B6%E5%A5%B6",
+          "source": "bilibili 热搜",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "15时19分"
         },
         {
-          "title": "查到了十年前的高考成绩",
-          "url": "https://s.weibo.com/weibo?q=%E6%9F%A5%E5%88%B0%E4%BA%86%E5%8D%81%E5%B9%B4%E5%89%8D%E7%9A%84%E9%AB%98%E8%80%83%E6%88%90%E7%BB%A9&t=31&band_rank=18&Refer=top",
-          "source": "微博",
+          "title": "冲!高考考生许愿LPL夺冠",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355074&amp;topic_name=%E5%86%B2%21%E9%AB%98%E8%80%83%E8%80%83%E7%94%9F%E8%AE%B8%E6%84%BFLPL%E5%A4%BA%E5%86%A0",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时19分"
+        },
+        {
+          "title": "马上评｜父亲背8个土鸡蛋接考感动全网，也照见高考的意义",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33364813",
+          "source": "澎湃新闻",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "15时19分"
         },
         {
-          "title": "毕业旅行迎首波高峰：多地景区对中高考生免票，机票酒店均价较暑期便宜一半",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33354244",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "高考结束后回校的高二生",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E5%9B%9E%E6%A0%A1%E7%9A%84%E9%AB%98%E4%BA%8C%E7%94%9F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "高考后老师的几点嘱托",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E8%80%81%E5%B8%88%E7%9A%84%E5%87%A0%E7%82%B9%E5%98%B1%E6%89%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "高考政治变生物,孟德尔快显灵",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355009&amp;topic_name=%E9%AB%98%E8%80%83%E6%94%BF%E6%B2%BB%E5%8F%98%E7%94%9F%E7%89%A9%2C%E5%AD%9F%E5%BE%B7%E5%B0%94%E5%BF%AB%E6%98%BE%E7%81%B5",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "嫌三手难?天津高考作文更磨人",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355000&amp;topic_name=%E5%AB%8C%E4%B8%89%E6%89%8B%E9%9A%BE%3F%E5%A4%A9%E6%B4%A5%E9%AB%98%E8%80%83%E4%BD%9C%E6%96%87%E6%9B%B4%E7%A3%A8%E4%BA%BA",
-          "source": "贴吧",
+          "title": "高考剩25分钟 女生大喊我要换答题卡",
+          "url": "https://www.toutiao.com/trending/7649981663602036265/",
+          "source": "今日头条",
           "ranks": [
             28
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时27分"
-        },
-        {
-          "title": "咒术回战梗图和高考太适配了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355002&amp;topic_name=%E5%92%92%E6%9C%AF%E5%9B%9E%E6%88%98%E6%A2%97%E5%9B%BE%E5%92%8C%E9%AB%98%E8%80%83%E5%A4%AA%E9%80%82%E9%85%8D%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时27分"
+          "time_info": "15时19分"
         }
       ]
     }
