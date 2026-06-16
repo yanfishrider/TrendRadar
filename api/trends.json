@@ -1,55 +1,33 @@
 {
-  "generated_at": "2026-06-15T16:57:34.959687+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-16T16:43:17.043072+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "浙江一海岛小县取消中考选拔功能，实现全员直升，新政落地以来发生了哪些改变？对学生而言是好是坏？",
-          "url": "https://www.zhihu.com/question/2049512084568630140",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "高考后最难受的人",
-          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E6%9C%80%E9%9A%BE%E5%8F%97%E7%9A%84%E4%BA%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时57分"
-        },
-        {
-          "title": "高考后“学过的都忘了”？专家解读",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83%E5%90%8E%E2%80%9C%E5%AD%A6%E8%BF%87%E7%9A%84%E9%83%BD%E5%BF%98%E4%BA%86%E2%80%9D%EF%BC%9F%E4%B8%93%E5%AE%B6%E8%A7%A3%E8%AF%BB",
+          "title": "各地高考查分时间陆续公布",
+          "url": "https://www.baidu.com/s?wd=%E5%90%84%E5%9C%B0%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E6%97%B6%E9%97%B4%E9%99%86%E7%BB%AD%E5%85%AC%E5%B8%83",
           "source": "百度热搜",
           "ranks": [
-            21
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "16时43分"
         },
         {
-          "title": "河北高考志愿填报参考系统开放试用",
-          "url": "https://www.toutiao.com/trending/7650852496407724068/",
-          "source": "今日头条",
+          "title": "26届高考生已经不知昼夜为何物",
+          "url": "https://www.douyin.com/hot/2535836",
+          "source": "抖音",
           "ranks": [
-            27
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时57分"
+          "time_info": "16时43分"
         }
       ]
     }
