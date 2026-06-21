@@ -1,55 +1,44 @@
 {
-  "generated_at": "2026-06-20T14:58:36.687923+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-06-21T15:30:52.421946+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
-          "title": "中考考点外女孩考完大声找妈",
-          "url": "https://www.toutiao.com/trending/7652273979123662886/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "中考考点外 怀孕6个月老师来送考",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E8%80%83%E7%82%B9%E5%A4%96+%E6%80%80%E5%AD%956%E4%B8%AA%E6%9C%88%E8%80%81%E5%B8%88%E6%9D%A5%E9%80%81%E8%80%83",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "上海中考作文题出炉：如愿以偿之后",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33419559",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
-        },
-        {
-          "title": "高考 630 和 690 的本质区别是什么？",
-          "url": "https://www.zhihu.com/question/2047356185930732208",
+          "title": "孩子念高中想辍学，就是不想念了，你还会继续坚持让孩子念完高中参加高考吗？",
+          "url": "https://www.zhihu.com/question/2050312151299105318",
           "source": "知乎",
           "ranks": [
-            19
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时58分"
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "余华称「报志愿理科我选数学，文科选哲学」，对当下高考志愿填报有借鉴意义吗？",
+          "url": "https://www.zhihu.com/question/2050875839395410256",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
+        },
+        {
+          "title": "中考一考点外 这位父亲的包格外显眼",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E4%B8%80%E8%80%83%E7%82%B9%E5%A4%96+%E8%BF%99%E4%BD%8D%E7%88%B6%E4%BA%B2%E7%9A%84%E5%8C%85%E6%A0%BC%E5%A4%96%E6%98%BE%E7%9C%BC",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时29分 ~ 15时30分]"
         }
       ]
     }
