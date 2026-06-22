@@ -1,44 +1,77 @@
 {
-  "generated_at": "2026-06-21T15:30:52.421946+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-22T16:54:25.551092+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
-          "title": "孩子念高中想辍学，就是不想念了，你还会继续坚持让孩子念完高中参加高考吗？",
-          "url": "https://www.zhihu.com/question/2050312151299105318",
-          "source": "知乎",
+          "title": "填报高考志愿前先看这份指南",
+          "url": "https://www.baidu.com/s?wd=%E5%A1%AB%E6%8A%A5%E9%AB%98%E8%80%83%E5%BF%97%E6%84%BF%E5%89%8D%E5%85%88%E7%9C%8B%E8%BF%99%E4%BB%BD%E6%8C%87%E5%8D%97",
+          "source": "百度热搜",
           "ranks": [
-            13
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
-          "title": "余华称「报志愿理科我选数学，文科选哲学」，对当下高考志愿填报有借鉴意义吗？",
-          "url": "https://www.zhihu.com/question/2050875839395410256",
+          "title": "孩子高考完以后，我要求他去送外卖或者去肯德基锻炼赚学费，他不愿意，怎么办？有好办法吗？",
+          "url": "https://www.zhihu.com/question/2051478831144482006",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "“高考生因没考好跳河”系谣言",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E7%94%9F%E5%9B%A0%E6%B2%A1%E8%80%83%E5%A5%BD%E8%B7%B3%E6%B2%B3%E2%80%9D%E7%B3%BB%E8%B0%A3%E8%A8%80",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "2026 高考查分临近，你的心情如何？",
+          "url": "https://www.zhihu.com/question/2011553615827968094",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时54分"
+        },
+        {
+          "title": "你如何看待，高考后很多孩子要苹果手机全家桶，形成了一股热潮？",
+          "url": "https://www.zhihu.com/question/2048784446720161578",
           "source": "知乎",
           "ranks": [
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 1,
+          "time_info": "16时54分"
         },
         {
-          "title": "中考一考点外 这位父亲的包格外显眼",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E4%B8%80%E8%80%83%E7%82%B9%E5%A4%96+%E8%BF%99%E4%BD%8D%E7%88%B6%E4%BA%B2%E7%9A%84%E5%8C%85%E6%A0%BC%E5%A4%96%E6%98%BE%E7%9C%BC",
-          "source": "百度热搜",
+          "title": "高考出分志愿怎么填",
+          "url": "https://www.toutiao.com/trending/7653672998334991935/",
+          "source": "今日头条",
           "ranks": [
-            23
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时29分 ~ 15时30分]"
+          "appearance_count": 1,
+          "time_info": "16时54分"
         }
       ]
     }
