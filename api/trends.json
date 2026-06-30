@@ -1,99 +1,44 @@
 {
-  "generated_at": "2026-06-29T15:25:44.834796+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-30T14:53:25.759096+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 8,
+      "match_count": 3,
       "titles": [
         {
-          "title": "1个视频看懂2026志愿填报新专业",
-          "url": "https://s.weibo.com/weibo?q=%231%E4%B8%AA%E8%A7%86%E9%A2%91%E7%9C%8B%E6%87%822026%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E6%96%B0%E4%B8%93%E4%B8%9A%23&t=31&band_rank=3&Refer=top",
-          "source": "微博",
+          "title": "教育部披露：高考生篡改7名同学志愿",
+          "url": "https://www.toutiao.com/trending/7656672182621667382/",
+          "source": "今日头条",
           "ranks": [
-            3
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "14时53分"
         },
         {
           "title": "高考志愿填报专业怎么选",
           "url": "https://www.douyin.com/hot/2551262",
           "source": "抖音",
           "ranks": [
-            3
+            4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "14时53分"
         },
         {
-          "title": "网警提醒4类“高考查分陷阱”",
-          "url": "https://www.toutiao.com/trending/7656705144813407782/",
-          "source": "今日头条",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "网警提醒4类“高考查分陷阱”",
-          "url": "https://www.baidu.com/s?wd=%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%924%E7%B1%BB%E2%80%9C%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%99%B7%E9%98%B1%E2%80%9D",
+          "title": "教育部披露：高考生篡改7名同学志愿",
+          "url": "https://www.baidu.com/s?wd=%E6%95%99%E8%82%B2%E9%83%A8%E6%8A%AB%E9%9C%B2%EF%BC%9A%E9%AB%98%E8%80%83%E7%94%9F%E7%AF%A1%E6%94%B97%E5%90%8D%E5%90%8C%E5%AD%A6%E5%BF%97%E6%84%BF",
           "source": "百度热搜",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "网警提醒警惕高考查分陷阱",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BD%91%E8%AD%A6%E6%8F%90%E9%86%92%E8%AD%A6%E6%83%95%E9%AB%98%E8%80%83%E6%9F%A5%E5%88%86%E9%99%B7%E9%98%B1",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "网警提醒4类“高考查分陷阱”",
-          "url": "https://www.douyin.com/hot/2551748",
-          "source": "抖音",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "真人真事,高考作弊哥陨落记",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355700&amp;topic_name=%E7%9C%9F%E4%BA%BA%E7%9C%9F%E4%BA%8B%2C%E9%AB%98%E8%80%83%E4%BD%9C%E5%BC%8A%E5%93%A5%E9%99%A8%E8%90%BD%E8%AE%B0",
-          "source": "贴吧",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
-        },
-        {
-          "title": "高中作弊装三年,高考现原形",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355680&amp;topic_name=%E9%AB%98%E4%B8%AD%E4%BD%9C%E5%BC%8A%E8%A3%85%E4%B8%89%E5%B9%B4%2C%E9%AB%98%E8%80%83%E7%8E%B0%E5%8E%9F%E5%BD%A2",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时25分"
+          "time_info": "14时53分"
         }
       ]
     }
