@@ -1,58 +1,7 @@
 {
-  "generated_at": "2026-07-01T15:08:01.853236+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-02T14:35:44.239475+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "高考志愿怎么填才能避免滑档",
-          "url": "https://www.douyin.com/hot/2552703",
-          "source": "抖音",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        },
-        {
-          "title": "探索多元中考升学路径再添一地：湖南娄底试点小学入学可直升高中",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33488167",
-          "source": "澎湃新闻",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        },
-        {
-          "title": "脑瘫少年中考674分：想做中国霍金",
-          "url": "https://www.baidu.com/s?wd=%E8%84%91%E7%98%AB%E5%B0%91%E5%B9%B4%E4%B8%AD%E8%80%83674%E5%88%86%EF%BC%9A%E6%83%B3%E5%81%9A%E4%B8%AD%E5%9B%BD%E9%9C%8D%E9%87%91",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        },
-        {
-          "title": "千万网红臻臻中考634分",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%8D%83%E4%B8%87%E7%BD%91%E7%BA%A2%E8%87%BB%E8%87%BB%E4%B8%AD%E8%80%83634%E5%88%86%23&t=31&band_rank=18&Refer=top",
-          "source": "微博",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时07分 ~ 15时08分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
