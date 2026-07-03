@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-07-02T14:35:44.239475+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-03T14:26:41.118366+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "学生因中考失利跳河？谣言",
+          "url": "https://www.toutiao.com/trending/7657828867579854911/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        },
+        {
+          "title": "河南高考 699 分女生基本确定去清华学医，母亲患病卧床、父亲打零工，为什么网友都在说这个选择不好？",
+          "url": "https://www.zhihu.com/question/2054372674491750198",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时26分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
