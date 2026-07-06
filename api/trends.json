@@ -1,33 +1,22 @@
 {
-  "generated_at": "2026-07-05T14:35:49.862916+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-06T15:07:28.931982+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "寒门女孩高考 699 分报考清华却被网暴，劝学生别沉迷手机为何引来几十万点赞的负面评论？",
-          "url": "https://www.zhihu.com/question/2056771003376722999",
-          "source": "知乎",
+          "title": "高考699分女孩被堵门直播，媒体：寒门逆袭不该是流量短剧",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33523848",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时35分"
-        },
-        {
-          "title": "志愿填报难,低认知家长拖后腿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355867&amp;topic_name=%E5%BF%97%E6%84%BF%E5%A1%AB%E6%8A%A5%E9%9A%BE%2C%E4%BD%8E%E8%AE%A4%E7%9F%A5%E5%AE%B6%E9%95%BF%E6%8B%96%E5%90%8E%E8%85%BF",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时35分"
+          "time_info": "15时07分"
         }
       ]
     }
