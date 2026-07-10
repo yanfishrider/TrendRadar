@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-09T14:38:10.868460+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-10T14:38:36.058608+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价大二女生高考失利无缘一本，毅然选择贷款两百万创办民宿，如今营收千万开启逆袭人生？",
-          "url": "https://www.zhihu.com/question/2057932320250795330",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时37分 ~ 14时38分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
