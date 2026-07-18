@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-17T13:36:26.513967+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-07-18T13:19:33.118656+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "新高考下选物理,文科成冷门",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356221&amp;topic_name=%E6%96%B0%E9%AB%98%E8%80%83%E4%B8%8B%E9%80%89%E7%89%A9%E7%90%86%2C%E6%96%87%E7%A7%91%E6%88%90%E5%86%B7%E9%97%A8",
-          "source": "贴吧",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时36分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
