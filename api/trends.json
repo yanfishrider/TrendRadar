@@ -1,7 +1,47 @@
 {
-  "generated_at": "2026-07-18T13:19:33.118656+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-07-19T13:45:39.229391+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "“高考估分715查分299”？警方通报",
+          "url": "https://www.baidu.com/s?wd=%E2%80%9C%E9%AB%98%E8%80%83%E4%BC%B0%E5%88%86715%E6%9F%A5%E5%88%86299%E2%80%9D%EF%BC%9F%E8%AD%A6%E6%96%B9%E9%80%9A%E6%8A%A5",
+          "source": "百度热搜",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "女孩高考估分715查分299系谣言",
+          "url": "https://www.douyin.com/hot/2576852",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "高考估分715查分299，试卷不是自己的？发帖者被拘留",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33612819",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
