@@ -1,44 +1,33 @@
 {
-  "generated_at": "2026-07-25T13:38:11.194417+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-26T13:54:35.804263+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
         {
-          "title": "男生中考699分偷改志愿读中职",
-          "url": "https://www.baidu.com/s?wd=%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83699%E5%88%86%E5%81%B7%E6%94%B9%E5%BF%97%E6%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C",
+          "title": "副教授被举报 18 年前高考移民，江苏师大回应「原就读高校撤销其本科学位」，其硕博学位与教职为何能保留？",
+          "url": "https://www.zhihu.com/question/2064285506431725683",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时54分"
+        },
+        {
+          "title": "中考生在黄土崩塌中遇难 成绩730分",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E5%9C%A8%E9%BB%84%E5%9C%9F%E5%B4%A9%E5%A1%8C%E4%B8%AD%E9%81%87%E9%9A%BE+%E6%88%90%E7%BB%A9730%E5%88%86",
           "source": "百度热搜",
           "ranks": [
-            9
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
-        },
-        {
-          "title": "副教授被举报18年前高考移民，江苏师大：已处分，原就读高校撤销其本科学位但保留硕士博士学位",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33652226",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
-        },
-        {
-          "title": "男生中考699分偷偷改志愿读中职",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%94%B7%E7%94%9F%E4%B8%AD%E8%80%83699%E5%88%86%E5%81%B7%E5%81%B7%E6%94%B9%E5%BF%97%E6%84%BF%E8%AF%BB%E4%B8%AD%E8%81%8C%23&t=31&band_rank=27&Refer=top",
-          "source": "微博",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时37分 ~ 13时38分]"
+          "appearance_count": 1,
+          "time_info": "13时54分"
         }
       ]
     }
