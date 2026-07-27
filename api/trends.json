@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T13:54:35.804263+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-07-27T14:22:46.440225+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
@@ -8,26 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "副教授被举报 18 年前高考移民，江苏师大回应「原就读高校撤销其本科学位」，其硕博学位与教职为何能保留？",
-          "url": "https://www.zhihu.com/question/2064285506431725683",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时54分"
-        },
-        {
-          "title": "中考生在黄土崩塌中遇难 成绩730分",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E8%80%83%E7%94%9F%E5%9C%A8%E9%BB%84%E5%9C%9F%E5%B4%A9%E5%A1%8C%E4%B8%AD%E9%81%87%E9%9A%BE+%E6%88%90%E7%BB%A9730%E5%88%86",
+          "title": "高考600分已难稳进985211",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83600%E5%88%86%E5%B7%B2%E9%9A%BE%E7%A8%B3%E8%BF%9B985211",
           "source": "百度热搜",
           "ranks": [
-            14
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时54分"
+          "time_info": "14时22分"
+        },
+        {
+          "title": "成都教育局回应“中考立定跳远等标准过高”：符合部委相关要求",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33663750",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时22分"
         }
       ]
     }
