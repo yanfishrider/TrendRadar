@@ -1,36 +1,7 @@
 {
-  "generated_at": "2026-07-27T14:22:46.440225+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-07-28T13:41:26.752958+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "高考600分已难稳进985211",
-          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83600%E5%88%86%E5%B7%B2%E9%9A%BE%E7%A8%B3%E8%BF%9B985211",
-          "source": "百度热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        },
-        {
-          "title": "成都教育局回应“中考立定跳远等标准过高”：符合部委相关要求",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33663750",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时22分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
