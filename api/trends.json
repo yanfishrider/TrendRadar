@@ -1,26 +1,7 @@
 {
-  "generated_at": "2026-07-31T14:02:06.483782+08:00",
-  "total_titles_processed": 321,
+  "generated_at": "2026-08-01T13:49:56.462293+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "00后姑娘在高考结束后剃了光头",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%A7%91%E5%A8%98%E5%9C%A8%E9%AB%98%E8%80%83%E7%BB%93%E6%9D%9F%E5%90%8E%E5%89%83%E4%BA%86%E5%85%89%E5%A4%B4",
-          "source": "百度热搜",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时01分 ~ 14时02分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
