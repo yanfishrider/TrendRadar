@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-08-01T13:49:56.462293+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-02T13:50:43.431093+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "弟弟举报哥哥用自己高考身份读大学，亲兄弟互撕，哥哥从本科到博后被注销，这起兄弟反目的悲剧根源出在哪？",
+          "url": "https://www.zhihu.com/question/2066897666827620550",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        },
+        {
+          "title": "李荣浩粉丝中考成绩659分要他转659元",
+          "url": "https://s.weibo.com/weibo?q=%23%E6%9D%8E%E8%8D%A3%E6%B5%A9%E7%B2%89%E4%B8%9D%E4%B8%AD%E8%80%83%E6%88%90%E7%BB%A9659%E5%88%86%E8%A6%81%E4%BB%96%E8%BD%AC659%E5%85%83%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时50分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
