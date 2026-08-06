@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-05T13:41:51.555821+08:00",
-  "total_titles_processed": 308,
+  "generated_at": "2026-08-06T13:42:41.503523+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "高考后去上海寻找钱学森的答案",
+          "url": "https://search.bilibili.com/all?keyword=%E9%AB%98%E8%80%83%E5%90%8E%E5%8E%BB%E4%B8%8A%E6%B5%B7%E5%AF%BB%E6%89%BE%E9%92%B1%E5%AD%A6%E6%A3%AE%E7%9A%84%E7%AD%94%E6%A1%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时42分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
