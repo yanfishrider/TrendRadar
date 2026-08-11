@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-08-10T12:26:25.421998+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-11T12:15:02.687413+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "# 学科与考试 中考 高考 新高考 一分一段表 志愿填报 强基计划 AI作弊 高科技作弊",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33753022",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时14分 ~ 12时15分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://github.com/yanfishrider/TrendRadar/img/news.jpg"
 }
