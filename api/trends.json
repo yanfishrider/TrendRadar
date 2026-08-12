@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T12:15:02.687413+08:00",
+  "generated_at": "2026-08-12T12:44:20.880881+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "代表建议设立带薪陪考假“中考3天、高考5天”，当地人社局回应",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33753022",
-          "source": "澎湃新闻",
+          "title": "高考444分考生回应被殡葬专业录取",
+          "url": "https://www.baidu.com/s?wd=%E9%AB%98%E8%80%83444%E5%88%86%E8%80%83%E7%94%9F%E5%9B%9E%E5%BA%94%E8%A2%AB%E6%AE%A1%E8%91%AC%E4%B8%93%E4%B8%9A%E5%BD%95%E5%8F%96",
+          "source": "百度热搜",
           "ranks": [
-            6
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时14分 ~ 12时15分]"
+          "appearance_count": 1,
+          "time_info": "12时44分"
         }
       ]
     }
